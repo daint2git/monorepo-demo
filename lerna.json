@@ -2,9 +2,6 @@
   "version": "independent",
   "npmClient": "yarn",
   "useWorkspaces": true,
-  "packages": [
-    "packages/*"
-  ],
   "changelog": {
     "repo": "daint2git/monorepo-demo",
     "cacheDir": ".changelog",
