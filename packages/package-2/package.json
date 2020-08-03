@@ -1,5 +1,5 @@
 {
-  "name": "package-2",
+  "name": "@monorepo-demo/package-2",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",

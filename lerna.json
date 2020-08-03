@@ -1,5 +1,13 @@
 {
   "version": "independent",
   "npmClient": "yarn",
-  "useWorkspaces": true
+  "useWorkspaces": true,
+  "changelog": {
+    "repo": "daint2git/monorepo-demo",
+    "cacheDir": ".changelog",
+    "labels": {
+      "feature": "New Feature",
+      "bug": "Bug Fix"
+    }
+  }
 }
