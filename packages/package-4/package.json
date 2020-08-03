@@ -1,5 +1,5 @@
 {
-  "name": "@monorepo-demo/package-4",
+  "name": "@monorepo-demo1/package-4",
   "version": "1.0.0",
   "description": "> TODO: description",
   "author": "daint2 <daint2dev@gmail.com>",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/daint2git/monorepo-demo/issues"
   },
-  "gitHead": "c3027d7ba7e30e120bcbdc717b08886c1579971c"
+  "gitHead": "725fca8f360624d83257a29add6d10a28623272d"
 }
