@@ -18,7 +18,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daint2git/monorepo-demo.git"
+    "url": "git+https://github.com/daint2git/monorepo-demo.git",
+    "directory": "packages/package-4"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
