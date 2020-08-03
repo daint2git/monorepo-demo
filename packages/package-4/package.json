@@ -1,0 +1,29 @@
+{
+  "name": "@monorepo-demo/package-4",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "daint2 <daint2dev@gmail.com>",
+  "homepage": "https://github.com/daint2git/monorepo-demo#readme",
+  "license": "MIT",
+  "main": "lib/package-4.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.yarnpkg.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daint2git/monorepo-demo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/daint2git/monorepo-demo/issues"
+  }
+}
